@@ -1,2 +1,3 @@
 This is the first lessons in version control.
-New line added
+New line added.
+3rd line.
